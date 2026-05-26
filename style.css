@@ -1,0 +1,10 @@
+/*reset de página*/
+*{
+    margin:0; /*zerando a margem geral*/
+}
+.cabecalho{
+    background-color: greenyellow; /*cor de fundo:verdelimao*/
+    display:flex; /*disposição dos elementos: flexivel*/
+    justify-content: space-between; /*espaço entre os elementos*/
+    
+}
