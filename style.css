@@ -6,5 +6,22 @@
     background-color: greenyellow; /*cor de fundo:verdelimao*/
     display:flex; /*disposição dos elementos: flexivel*/
     justify-content: space-between; /*espaço entre os elementos*/
-    
+    align-items: center;
 }
+.cabecalho-titulo{
+    color:white;
+    padding:10px
+}
+span{
+    font-weight: bold;
+    color:red;
+}
+
+.cabecalho-itens{
+    display:flex;
+}
+.cabecalho-itens-menu{
+    padding:20px;
+}
+
+.
